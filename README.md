@@ -14,5 +14,9 @@ Then we created tables using SQL, based on the requirement for the task at hand.
 In total 72,458 positions/roles will vacate based on our analysis. So. these positions will have to be filled.
 There are 1549 mentors that are available.
 This shows that there may be a shortage of mentors as opposed to number of new employees that will need training.
+
 Few more important queries that helped with this analysis.
+
 [retirement_info.csv](https://github.com/sugandha001/Pewlett-Hackard-Analysis/files/9985367/retirement_info.csv)
+
+[unique_titles.csv.csv](https://github.com/sugandha001/Pewlett-Hackard-Analysis/files/9985402/unique_titles.csv.csv)
